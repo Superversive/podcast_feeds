@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Spiritual Direction</title>
-    <link>https://yourusername.github.io/my-podcasts-feeds/podcast_sd.xml</link>
+    <link>https://superversive.github.io/podcasts-feeds/podcast_sd.xml</link>
     <language>en-us</language>
     <description><p>Embark on a deeper understanding of <b>personal spiritual direction</b>, specifically the <b>fraternal chat model</b> practiced within Opus Dei. This podcast, drawing on a rich ecclesial tradition and the spirit of St. Josemaría Escrivá, is crafted for those <b>training to provide spiritual accompaniment</b> to Christians seeking holiness in the midst of the world.</p>
 
@@ -32,7 +32,7 @@ PayPal.me/PaulPribaz</itunes:summary>
     <itunes:subcategory text="Spiritual Growth"/>
     </itunes:category>
     <itunes:author>Paul Pribaz</itunes:author>
-    <itunes:image href="BLANK"/>
+    <itunes:image href="https://superversive.github.io/podcasts-feeds/images/2025-07-11_SD_Art.png"/>
     <itunes:explicit>no</itunes:explicit>
 
     <item>
